@@ -1,3 +1,4 @@
+/*
 import { TESTIMONIALS } from '@/lib/data';
 import Tag from '@/components/data-display/tag';
 import TestimonialDetails from '@/components/data-display/testimonial-details';
@@ -12,12 +13,12 @@ const TestimonialsSection = () => {
           <Tag label="Testimonials" />
         </div>
         <Typography variant="subtitle" className="max-w-xl text-center">
-          Nice things people have said about me:
+          What my clients think of me
         </Typography>
       </div>
 
-      <div className="flex gap-12 max-md:flex-col md:max-lg:flex-wrap">
-        {TESTIMONIALS?.map((testimonial, index) => (
+      <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {TESTIMONIALS.map((testimonial, index) => (
           <TestimonialDetails key={index} {...testimonial} />
         ))}
       </div>
@@ -26,3 +27,4 @@ const TestimonialsSection = () => {
 };
 
 export default TestimonialsSection;
+*/
