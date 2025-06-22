@@ -40,15 +40,15 @@ const AboutMeSection = () => {
             and I soon found myself immersed in the world of code.
           </Typography>
           <Typography>
-          Back in 2015, I challenged myself to recreate a user interface using Photoshop and Dreamweaver — not because I had to, but to prove I could. Since then, I've grown from designing in Figma to building dynamic web interfaces with HTML, CSS, JavaScript, and Next.js. Today, I'm expanding my skills into backend technologies like Python, Django, and MySQL, with a long-term 
+          Back in 2015, I challenged myself to recreate a user interface using Photoshop and Dreamweaver — not because I had to, but to prove I could. Since then, I&apos;ve grown from designing in Figma to building dynamic web interfaces with HTML, CSS, JavaScript, and Next.js. Today, I&apos;m expanding my skills into backend technologies like Python, Django, and MySQL, with a long-term 
           goal of becoming a fully proficient full stack developer.
           </Typography>
           <Typography>
-          My approach is design-led: I care deeply about aesthetics, usability, and crafting experiences that are intuitive and impactful. I'm currently freelancing while continuing to learn and build, driven by a desire to offer tech solutions that make life easier for users — whether that's an Uber-like 
+          My approach is design-led: I care deeply about aesthetics, usability, and crafting experiences that are intuitive and impactful. I&apos;m currently freelancing while continuing to learn and build, driven by a desire to offer tech solutions that make life easier for users — whether that&apos;s an Uber-like 
           driver app or an e-commerce platform connecting buyers and sellers.
           </Typography>
           <Typography>
-          When &apos;m not coding, you&apos;ll likely find me watching movies,
+          When I&apos;m not coding, you&apos;ll likely find me watching movies,
            exploring creative ideas, or chasing a bit of adventure.
             One day, I hope to lead a tech company focused on solving
              real-world problems through smart, accessible, 
